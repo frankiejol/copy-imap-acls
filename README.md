@@ -23,8 +23,9 @@ Requirements
 
 Installation
 ------------
+Copy the .pl file to a directory in your path, like /usr/local/bin.
 
-In debian and derivatives do:
+To install the requirements, in debian and derivates do:
 
  # apt-get install libmail-imapclient-perl libterm-readkey-perl
  
